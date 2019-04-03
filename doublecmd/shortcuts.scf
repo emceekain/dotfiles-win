@@ -92,10 +92,6 @@
         <Command>cm_QuickView</Command>
       </Hotkey>
       <Hotkey>
-        <Shortcut>Ctrl+S</Shortcut>
-        <Command>cm_QuickSearch</Command>
-      </Hotkey>
-      <Hotkey>
         <Shortcut>Ctrl+R</Shortcut>
         <Command>cm_Refresh</Command>
       </Hotkey>
@@ -479,6 +475,11 @@
       <Hotkey>
         <Shortcut>Esc</Shortcut>
         <Command>cm_MarkUnmarkAll</Command>
+        <Control>Files Panel</Control>
+      </Hotkey>
+      <Hotkey>
+        <Shortcut>Ctrl+S</Shortcut>
+        <Command>cm_ResaveFavoriteTabs</Command>
         <Control>Files Panel</Control>
       </Hotkey>
     </Form>

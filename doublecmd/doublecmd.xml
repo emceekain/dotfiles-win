@@ -345,7 +345,7 @@
               <Entry Active="True">
                 <FileSource Type="FileSystem"/>
                 <Paths>
-                  <Path Filename="AuditManager">T:\agentsys\Internal\</Path>
+                  <Path Filename="StagingSuite">T:\agentsys\Internal\</Path>
                 </Paths>
               </Entry>
             </History>
@@ -381,17 +381,7 @@
               <Entry Active="True">
                 <FileSource Type="FileSystem"/>
                 <Paths>
-                  <Path Filename=".dotfiles">H:\</Path>
-                  <Path Filename="..">H:\.dotfiles\</Path>
-                  <Path Filename=".dotfiles">H:\</Path>
-                  <Path Filename="..">H:\.dotfiles\</Path>
-                  <Path Filename=".dotfiles">H:\</Path>
-                  <Path Filename="WinMerge_Molokai.ini">H:\.dotfiles\</Path>
-                  <Path Filename=".dotfiles">H:\</Path>
-                  <Path Filename="..">H:\.dotfiles\</Path>
-                  <Path Filename="temp">H:\</Path>
-                  <Path Filename="..">H:\temp\</Path>
-                  <Path Filename=".NERDTreeBookmarks">H:\</Path>
+                  <Path Filename="">H:\.dotfiles\</Path>
                 </Paths>
               </Entry>
             </History>
@@ -494,7 +484,7 @@
               <Entry Active="True">
                 <FileSource Type="TWinNetFileSource"/>
                 <Paths>
-                  <Path Filename="">\\isilon\redirection\MyDocs\BMMcKain\My Documents\</Path>
+                  <Path Filename="">\\isilon\redirection\MyDocs\BMMcKain\My Documents\WindowsPowerShell\</Path>
                 </Paths>
               </Entry>
             </History>
@@ -587,7 +577,7 @@
               <Entry Active="True">
                 <FileSource Type="FileSystem"/>
                 <Paths>
-                  <Path Filename="..">C:\tools\cygwin\home\bmmckain\</Path>
+                  <Path Filename="">C:\tools\cygwin\home\bmmckain\</Path>
                 </Paths>
               </Entry>
             </History>
@@ -621,20 +611,112 @@
               <Entry Active="True">
                 <FileSource Type="FileSystem"/>
                 <Paths>
-                  <Path Filename=".dotfiles">H:\</Path>
-                  <Path Filename="..">H:\.dotfiles\</Path>
-                  <Path Filename=".dotfiles">H:\</Path>
-                  <Path Filename="..">H:\.dotfiles\</Path>
-                  <Path Filename=".dotfiles">H:\</Path>
-                  <Path Filename="WinMerge_Molokai.ini">H:\.dotfiles\</Path>
-                  <Path Filename=".dotfiles">H:\</Path>
-                  <Path Filename="..">H:\.dotfiles\</Path>
-                  <Path Filename="temp">H:\</Path>
-                  <Path Filename="..">H:\temp\</Path>
-                  <Path Filename=".NERDTreeBookmarks">H:\</Path>
-                  <Path Filename="doublecmd">C:\Users\bmmckain\AppData\Roaming\</Path>
-                  <Path Filename="doublecmd.err">C:\Users\bmmckain\AppData\Roaming\doublecmd\</Path>
-                  <Path Filename="doublecmd">C:\Users\bmmckain\AppData\Roaming\</Path>
+                  <Path Filename="highlighters.xml">C:\Users\bmmckain\AppData\Roaming\doublecmd\</Path>
+                </Paths>
+              </Entry>
+            </History>
+            <ColumnsView>
+              <ColumnsSet>Default</ColumnsSet>
+            </ColumnsView>
+          </FileView>
+        </Tab>
+        <Tab>
+          <FileView Type="columns">
+            <Sortings>
+              <Sorting>
+                <Direction>2</Direction>
+                <Function>7</Function>
+              </Sorting>
+            </Sortings>
+            <History>
+              <Entry>
+                <FileSource Type="FileSystem"/>
+                <Paths>
+                  <Path Filename="">H:\</Path>
+                </Paths>
+              </Entry>
+              <Entry>
+                <FileSource Type="TWinNetFileSource"/>
+                <Paths>
+                  <Path Filename="">\\isilon\redirection\Desktops\BMMcKain\Desktop\</Path>
+                </Paths>
+              </Entry>
+              <Entry Active="True">
+                <FileSource Type="FileSystem"/>
+                <Paths>
+                  <Path Filename="">H:\.dotfiles\</Path>
+                </Paths>
+              </Entry>
+            </History>
+            <ColumnsView>
+              <ColumnsSet>Default</ColumnsSet>
+            </ColumnsView>
+          </FileView>
+        </Tab>
+        <Tab>
+          <FileView Type="columns">
+            <Sortings>
+              <Sorting>
+                <Direction>2</Direction>
+                <Function>7</Function>
+              </Sorting>
+            </Sortings>
+            <History>
+              <Entry>
+                <FileSource Type="FileSystem"/>
+                <Paths>
+                  <Path Filename="">H:\</Path>
+                </Paths>
+              </Entry>
+              <Entry>
+                <FileSource Type="TWinNetFileSource"/>
+                <Paths>
+                  <Path Filename="">\\isilon\redirection\Desktops\BMMcKain\Desktop\</Path>
+                </Paths>
+              </Entry>
+              <Entry Active="True">
+                <FileSource Type="FileSystem"/>
+                <Paths>
+                  <Path Filename="">C:\Users\bmmckain\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup\</Path>
+                </Paths>
+              </Entry>
+            </History>
+            <ColumnsView>
+              <ColumnsSet>Default</ColumnsSet>
+            </ColumnsView>
+          </FileView>
+        </Tab>
+        <Tab>
+          <FileView Type="columns">
+            <Sortings>
+              <Sorting>
+                <Direction>2</Direction>
+                <Function>7</Function>
+              </Sorting>
+            </Sortings>
+            <History>
+              <Entry>
+                <FileSource Type="FileSystem"/>
+                <Paths>
+                  <Path Filename="">H:\</Path>
+                </Paths>
+              </Entry>
+              <Entry>
+                <FileSource Type="TWinNetFileSource"/>
+                <Paths>
+                  <Path Filename="">\\isilon\redirection\Desktops\BMMcKain\Desktop\</Path>
+                </Paths>
+              </Entry>
+              <Entry>
+                <FileSource Type="FileSystem"/>
+                <Paths>
+                  <Path Filename="">C:\Users\bmmckain\Documents\WindowsPowerShell\</Path>
+                </Paths>
+              </Entry>
+              <Entry Active="True">
+                <FileSource Type="TWinNetFileSource"/>
+                <Paths>
+                  <Path Filename="..">\\isilon\redirection\MyDocs\BMMcKain\My Documents\WindowsPowerShell\</Path>
                 </Paths>
               </Entry>
             </History>
@@ -741,7 +823,7 @@
       <Name>Segoe UI</Name>
       <Size>13</Size>
       <Style>0</Style>
-      <Quality>0</Quality>
+      <Quality>1</Quality>
     </Main>
     <Editor>
       <Name>Hack</Name>
