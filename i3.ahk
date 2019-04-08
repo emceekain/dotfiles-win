@@ -11,6 +11,7 @@ GroupAdd mail, ahk_exe outlook.exe          ;Outlook
 GroupAdd mail, ahk_exe thunderbird.exe      ;Thunderbird
 GroupAdd chat, ahk_exe pidgin.exe           ;Pidgin
 GroupAdd chat, Conversations                ;Jabber
+GroupAdd chat, Telegram Web
 GroupAdd sql, ahk_exe ssms.exe              ;SQL Server Management Studio
 GroupAdd ide, ahk_exe devenv.exe            ;Visual Studio
 GroupAdd editor, ahk_exe gvim.exe           ;gVim
@@ -66,10 +67,10 @@ Else
 Return
 
 #3::
-;If !WinExist("ahk_exe pidgin.exe")
-    ;Run pidgin.exe
-If !WinExist("ahk_exe CiscoJabber.exe")
-    Run "C:\Program Files (x86)\Cisco Systems\Cisco Jabber\CiscoJabber.exe"
+If !WinExist("ahk_exe pidgin.exe")
+    Run pidgin.exe
+;If !WinExist("ahk_exe CiscoJabber.exe")
+    ;Run "C:\Program Files (x86)\Cisco Systems\Cisco Jabber\CiscoJabber.exe"
 Else
     GroupActivate chat
 Return
