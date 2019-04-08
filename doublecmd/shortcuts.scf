@@ -80,10 +80,6 @@
         <Command>cm_MultiRename</Command>
       </Hotkey>
       <Hotkey>
-        <Shortcut>Ctrl+O</Shortcut>
-        <Command>cm_ToggleFullscreenConsole</Command>
-      </Hotkey>
-      <Hotkey>
         <Shortcut>Ctrl+P</Shortcut>
         <Command>cm_AddPathToCmdLine</Command>
       </Hotkey>
@@ -385,6 +381,14 @@
       <Hotkey>
         <Shortcut>Ctrl+K</Shortcut>
         <Command>cm_PrevTab</Command>
+      </Hotkey>
+      <Hotkey>
+        <Shortcut>Ctrl+O</Shortcut>
+        <Command>cm_LoadFavoriteTabs</Command>
+      </Hotkey>
+      <Hotkey>
+        <Shortcut>Ctrl+Shift+S</Shortcut>
+        <Command>cm_SaveFavoriteTabs</Command>
       </Hotkey>
       <Hotkey>
         <Shortcut>Del</Shortcut>
